@@ -15,6 +15,7 @@ This repository contains:
 - **Default_demo.mp4**: Default mode uses parameter estimation alone.
 - **Adaptive_demo.mp4**: Adaptive mode uses parameter estimation through empirical analysis.
 - **manuscript.pdf**: Outlines the whole research and relevant results.
+- **README.md**: README.md file.
 
 ## Repository Structure
 
